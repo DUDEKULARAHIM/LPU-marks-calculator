@@ -216,7 +216,7 @@ function App() {
       )}
 
       <footer className="footer">
-        <p>Made by Murthy Mohan</p>
+        <p>Made by Rahim</p>
         <div className="social-icons">
           <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
             <FaFacebook size={24} style={{ color: "#4267B2" }} />
